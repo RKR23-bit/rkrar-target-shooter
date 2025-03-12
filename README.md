@@ -1,1 +1,0 @@
-# rkrar-target-shooter
